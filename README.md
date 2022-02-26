@@ -9,7 +9,7 @@
 
 
 
-- 📧 E-mail: (https://palakhandelwalgp@gmail.com) 
+- 📧 E-mail: https://palakhandelwalgp@gmail.com
 
 ### Connect with me:
 [<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>](https://www.linkedin.com/in/palak-khandelwal/)
