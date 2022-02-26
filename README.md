@@ -12,9 +12,9 @@
 - 📧 E-mail: https://palakhandelwalgp@gmail.com
 
 ### Connect with me:
-[<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>](https://www.linkedin.com/in/palak-khandelwal/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>l-linkedin-social-media-justicon-flat-justicon.png"/>](https://www.linkedin.com/in/palak-khandelwal/)
 
-[<img src="https://img.icons8.com/fluency/64/000000/instagram-new.png"/>](https://www.instagram.com/palakk2510/)
+[<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://www.instagram.com/palakk2510/)
 
 
 
