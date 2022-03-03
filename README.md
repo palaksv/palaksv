@@ -1,8 +1,8 @@
 
 
 <h1 align="center">Hi there, I'm Palak 👋</h1>
-
-## I'm a developer 👩‍💻
+<h1 align="center">I'm a developer 👩‍💻</h1>
+ 
 
 
 - 👩‍🎓 Pursuing bachelor's in Computer Science
@@ -14,7 +14,7 @@
 - 📧 E-mail: https://palakhandelwalgp@gmail.com
 
 ### Connect with me:
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/palak-khandelwal/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/palak-khandelwal/)
 
 [<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://www.instagram.com/palakk2510/)
 
