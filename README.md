@@ -7,7 +7,7 @@
 
 - 👩‍🎓 Pursuing bachelor's in Computer Science
 - 🌱 I’m currently learning full stack web development(MERN)
-- 🎊 Enthusiastic about machine learning 
+
 
 
 
