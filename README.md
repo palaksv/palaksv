@@ -18,7 +18,7 @@
 
 [<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://www.instagram.com/palakk2510/)
 
-![](https://komarev.com/ghpvc/?username=palaksv&color=green)
+![](https://komarev.com/ghpvc/?username=palaksv&color=brightgreen)
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=palaksv&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
