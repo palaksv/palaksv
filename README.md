@@ -13,7 +13,7 @@
     <td><ul>
     <li> 👩‍🎓 A developer pursuing bachelor's in Computer Science</li>
     <li>💻 I work in full stack web development (MERN)</li>
-    <li>📧 E-mail: https://palakhandelwalgp@gmail.com </li>
+    <li>📧 E-mail: palakhandelwalgp@gmail.com </li>
     <li> 😂 Fun fact : Internet users blink less than usual </li>
     </ul>
     </td>
