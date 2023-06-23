@@ -28,5 +28,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=palaksv&theme=chartreuse-dark)](https://git.io/streak-stats)
 
-
+![snake gif](https://github.com/palaksv/palaksv/blob/output/github-contribution-grid-snake.gif)
 
