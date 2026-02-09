@@ -21,7 +21,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-khandelwal/)
 [![Email](https://img.shields.io/badge/Email-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](mailto:palakhandelwalgp@gmail.com) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/notyourpalak)
 
 ---
 
@@ -66,3 +65,4 @@
 ### Fun Section:
 
 [![Jokes](https://readme-jokes.vercel.app/api)](https://readme-jokes.vercel.app)
+
